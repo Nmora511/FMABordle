@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .font-outline {
+    -webkit-text-stroke: 0.1vw white;
+  }
+}
+
+:root {
+  --background: #0a0a0a;
+  --primary: #0a0a0a;
+  --gray: #f6f7f8;
+  --foreground: #ededed;
+  --red: #c51117;
+}
+
+body {
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
