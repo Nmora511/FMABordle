@@ -1,0 +1,1236 @@
+{
+  "characters": [
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/e/ef/Avatar_hohenheim.png",
+      "name": "Van Hohenheim",
+      "species": ["Human", "Living Philosopher's Stone"],
+      "gender": "Male",
+      "age": "451",
+      "nationality": ["Xerxesian"],
+      "debut_episode": "Episode 12: One Is All, All Is One",
+      "affiliations": ["Xerxes", "Edward Elric", "Alphonse Elric"],
+      "abilities": [
+        "Alchemy",
+        "Philosopher's Stone",
+        "Immortality",
+        "Alchemy Without Circle"
+      ]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/6/66/Trisha_Elric.png",
+      "name": "Trisha Elric",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "26",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 2: The First Day",
+      "affiliations": ["Unknown"],
+      "abilities": ["Mothering"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/0/08/213254_1407532169190_full.png",
+      "name": "Edward Elric",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "15",
+      "nationality": ["Amestrian", "Xerxesian"],
+      "debut_episode": "Episode 1: Fullmetal Alchemist",
+      "affiliations": [
+        "Rockbell Automail",
+        "Amestrian State Military",
+        "Izumi Curtis",
+        "Roy Mustang",
+        "Greed"
+      ],
+      "abilities": [
+        "Alchemy",
+        "High Intelligence",
+        "Alchemy Without Circle",
+        "Automail User"
+      ]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/c/c3/AlManga.png",
+      "name": "Alphonse Elric",
+      "species": ["Human", "Human soul bound to armour"],
+      "gender": "Male",
+      "age": "14",
+      "nationality": ["Amestrian", "Xerxesian"],
+      "debut_episode": "Episode 1: Fullmetal Alchemist",
+      "affiliations": [
+        "Amestrian State Military",
+        "Izumi Curtis",
+        "Roy Mustang",
+        "Rockbell Automail"
+      ],
+      "abilities": [
+        "Alchemy",
+        "High Intelligence",
+        "Alchemy Without Circle",
+        "No fatigue",
+        "No pain threshold"
+      ]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/7/7b/Avatar_pinako0.png",
+      "name": "Pinako Rockbell",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "65",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 2: The First Day",
+      "affiliations": ["Rockbell Automail"],
+      "abilities": ["Automail Specialist", "Automail Mechanic"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/b/b8/Urey.png",
+      "name": "Yuriy Rockbell",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "35",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 18: The Arrogant Palm of a Small Human",
+      "affiliations": ["Rockbell Automail"],
+      "abilities": ["Medicine"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/c/cb/Sara.png",
+      "name": "Sarah Rockbell",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "29",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 18: The Arrogant Palm of a Small Human",
+      "affiliations": ["Rockbell Automail"],
+      "abilities": ["Medicine"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/8/83/Winry03ava.png",
+      "name": "Winry Rockbell",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "15",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 2: The First Day",
+      "affiliations": ["Atelier Garfiel", "Rockbell Automail"],
+      "abilities": ["Medicine", "Automail Mechanic", "Automail Specialist"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/7/74/Avatar_den.png",
+      "name": "Den",
+      "species": ["Dog"],
+      "gender": "Female",
+      "age": "7",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 6: Road of Hope",
+      "affiliations": ["Rockbell Automail"],
+      "abilities": ["Automail User"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/5/5e/Hughes09.png",
+      "name": "Maes Hughes",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "29",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 1: Fullmetal Alchemist",
+      "affiliations": [
+        "Amestrian State Military",
+        "Roy Mustang",
+        "Edward Elric",
+        "Alphonse Elric",
+        "Winry Rockbell"
+      ],
+      "abilities": ["Intelligence"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/1/1b/Avatar_gracia.png",
+      "name": "Gracia Hughes",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "26",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 1: Fullmetal Alchemist",
+      "affiliations": ["Edward Elric", "Alphonse Elric", "Winry Rockbell"],
+      "abilities": ["Childcare", "Cooking"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/2/23/Avatar_elicia.png",
+      "name": "Elicia Hughes",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "2",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 1: Fullmetal Alchemist",
+      "affiliations": ["Edward Elric", "Alphonse Elric", "Winry Rockbell"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/0/0b/KingBradley1080p.png",
+      "name": "King Bradley (Wrath)",
+      "species": ["Human-based Homunculus"],
+      "gender": "Male",
+      "age": "59",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 1: Fullmetal Alchemist",
+      "affiliations": ["Homunculus", "Father", "Amestrian State Military"],
+      "abilities": [
+        "Ultimate Eye",
+        "Philosopher's Stone",
+        "Immortality",
+        "Swordplay"
+      ]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/9/99/MrsBradley03.png",
+      "name": "Mrs. Bradley",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "45",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 14: Those Who Lurk Underground",
+      "affiliations": ["Selim Bradley", "King Bradley"],
+      "abilities": ["Mothering"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/2/21/Pride09.png",
+      "name": "Selim Bradley (Pride)",
+      "species": ["Homunculus"],
+      "gender": "Male",
+      "age": "350",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 14: Those Who Lurk Underground",
+      "affiliations": ["Homunculus", "Father"],
+      "abilities": ["Shadow Control", "Philosopher's Stone", "Immortality"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/1/11/Avatar_phillip.png",
+      "name": "Philip Gargantos Armstrong",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "55",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 45: The Promised Day",
+      "affiliations": ["Armstrong Family", "Amestrian State Military"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/4/4c/Avatar_mrsarmstrong.png",
+      "name": "Mrs. Armstrong",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "55",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 45: The Promised Day",
+      "affiliations": ["Armstrong Family"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/e/e6/Avatar_olivier.png",
+      "name": "Olivier Mira Armstrong",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "37",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 33: The Northern Wall of Briggs",
+      "affiliations": [
+        "Armstrong Family",
+        "Fort Briggs",
+        "Amestrian State Military"
+      ],
+      "abilities": ["Swordplay"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/4/44/Avatar_alex0.png",
+      "name": "Alex Louis Armstrong",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "33",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 1: Fullmetal Alchemist",
+      "affiliations": [
+        "Armstrong Family",
+        "Amestrian State Military",
+        "Edward Elric",
+        "Alphonse Elric"
+      ],
+      "abilities": ["Alchemy", "Extremely Strong"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/3/37/Avatar_catherine.png",
+      "name": "Cathrine Elle Armstrong",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "18",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 38: Conflict at Baschool",
+      "affiliations": ["Armstrong Family"],
+      "abilities": ["Great Strength"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/3/31/Avatar_sigmund.png",
+      "name": "Sig Curtis",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "34",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 9: Created Feelings",
+      "affiliations": ["Izumi Curtis"],
+      "abilities": ["Extremely Strong"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/2/26/Avatar_harnet.png",
+      "name": "Izumi Curtis",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "35",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 2: The First Day",
+      "affiliations": ["Alphonse Elric", "Edward Elric", "Sig Curtis"],
+      "abilities": ["Alchemy", "Alchemy Without Circle"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/5/59/Avatar_grumman.png",
+      "name": "General Grumman",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "70",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 13: Beasts of Dublith",
+      "affiliations": ["Amestrian State Military"],
+      "abilities": ["Military Knowledge", "Chess Skills"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/5/52/Hawkeye.png",
+      "name": "Berthold Hawkeye",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "45",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 30: The Ishvalan War of Extermination",
+      "affiliations": ["Riza Hawkeye", "Roy Mustang"],
+      "abilities": ["Alchemy"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/9/9c/Riza09.png",
+      "name": "Riza Hawkeye",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "25",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 1: Fullmetal Alchemist",
+      "affiliations": [
+        "Mustang Unit",
+        "Roy Mustang",
+        "Amestrian State Military"
+      ],
+      "abilities": ["Sniping"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/d/dc/Avatar_hayate.png",
+      "name": "Black Hayate",
+      "species": ["Dog"],
+      "gender": "Male",
+      "age": "3",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 15: The Envoy From the East",
+      "affiliations": [
+        "Riza Hawkeye",
+        "Mustang Unit",
+        "Amestrian State Military"
+      ],
+      "abilities": ["Sensitive to Humunculi"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/f/fe/Avatar_shaw.png",
+      "name": "Shou Tucker",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "50",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 4: An Alchemist's Anguish",
+      "affiliations": ["Amestrian State Military"],
+      "abilities": ["Alchemy", "Creating Chimeras"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/8/87/Mother.png",
+      "name": "Mrs. Tucker",
+      "species": ["Human", "Chimera"],
+      "gender": "Female",
+      "age": "30",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 4: An Alchemist's Anguish",
+      "affiliations": ["Unknown"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/0/03/Avatar_nina.png",
+      "name": "Nina Tucker",
+      "species": ["Human", "Chimera"],
+      "gender": "Female",
+      "age": "5",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 4: An Alchemist's Anguish",
+      "affiliations": ["Edward Elric", "Alphonse Elric", "Alexander"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/d/d9/Alexander.png",
+      "name": "Alexander",
+      "species": ["Dog", "Chimera"],
+      "gender": "Male",
+      "age": "5",
+      "nationality": ["None"],
+      "debut_episode": "Episode 4: An Alchemist's Anguish",
+      "affiliations": ["Edward Elric", "Nina Tucker", "Alphonse Elric"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/e/e6/Avatar_cremin.png",
+      "name": "Cremin",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "36",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 21: Advance of the Fool",
+      "affiliations": ["Central Command", "Amestrian State Military"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/5/5a/Avatar_edison.png",
+      "name": "Edison",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "35",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 21: Advance of the Fool",
+      "affiliations": ["Central Command", "Amestrian State Military"],
+      "abilities": ["Advisoring"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/b/b7/Gardner-1.png",
+      "name": "Gardner",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "35",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 21: Advance of the Fool",
+      "affiliations": ["Central Command", "Amestrian State Military"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/9/99/Avatar_harris-black.png",
+      "name": "Harris",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "35",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 44: Revving at Full Throttle",
+      "affiliations": ["Amestrian State Military"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/4/48/Avatar_raven.png",
+      "name": "Raven",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "55",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 24: Inside the Belly",
+      "affiliations": ["Central Command", "Amestrian State Military"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/8/80/Avatar_basque.png",
+      "name": "Basque Grand",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "50",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 4: An Alchemist's Anguish",
+      "affiliations": ["Amestrian State Military"],
+      "abilities": ["Alchemy"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/8/88/Marcoh.png",
+      "name": "Tim Marcoh",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "55",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 6: Road of Hope",
+      "affiliations": ["Scar", "May Chang", "Amestrian State Military"],
+      "abilities": [
+        "Alchemy",
+        "Medicine",
+        "Philosopher's Stone Creation/Destruction"
+      ]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/b/bb/Avatar_roy.png",
+      "name": "Roy Mustang",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "29",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 1: Fullmetal Alchemist",
+      "affiliations": [
+        "Berthold Hawkeye",
+        "General Grumman",
+        "Madame Christmas' Bar",
+        "Mustang Unit",
+        "Amestrian State Military"
+      ],
+      "abilities": ["Alchemy", "Alchemy Without Circle", "Chess Skills"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/7/7e/Jacob_kimbley.png",
+      "name": "Solf J. Kimblee",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "31",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 1: Fullmetal Alchemist",
+      "affiliations": ["Father", "Homunculus", "Amestrian State Military"],
+      "abilities": ["Alchemy", "Photographic Memory", "Philosopher's Stone"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/d/d5/Avatar_isaac.png",
+      "name": "Isaac McDougal",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "40",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 1: Fullmetal Alchemist",
+      "affiliations": ["Amestrian State Military"],
+      "abilities": ["Alchemy"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/5/5b/Giolio.png",
+      "name": "Giolio Comanche",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "60",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 15: The Envoy From the East",
+      "affiliations": ["Amestrian State Military"],
+      "abilities": ["Alchemy"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/9/9e/Avatar_heymans.png",
+      "name": "Heymans Breda",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "25",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 4: An Alchemist's Anguish",
+      "affiliations": ["Mustang Unit", "Amestrian State Military"],
+      "abilities": ["High Intelligence", "Information Gathering"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/c/cc/Avatar_jean.png",
+      "name": "Jean Havoc",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "25",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 4: An Alchemist's Anguish",
+      "affiliations": [
+        "Mustang Unit",
+        "Havoc General Store",
+        "Amestrian State Military"
+      ],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/9/98/Avatar_kain.png",
+      "name": "Kain Fuery",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "22",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 4: An Alchemist's Anguish",
+      "affiliations": ["Mustang Unit", "Amestrian State Military"],
+      "abilities": ["Tech Expert"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/2/28/Falman.png",
+      "name": "Vato Falman",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "38",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 4: An Alchemist's Anguish",
+      "affiliations": [
+        "Mustang Unit",
+        "Fort Briggs",
+        "Amestrian State Military"
+      ],
+      "abilities": ["High Intelligence", "Photographic Memory"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/a/a9/Avatar_miles00.png",
+      "name": "Miles",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "30",
+      "nationality": ["Amestrian", "Ishvalan"],
+      "debut_episode": "Episode 32: The Führer's Son",
+      "affiliations": [
+        "Fort Briggs",
+        "Olivier Mira Armstrong",
+        "Amestrian State Military"
+      ],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/d/dc/Buccanear.png",
+      "name": "Buccaneer",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "28",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 33: The Northern Wall of Briggs",
+      "affiliations": [
+        "Fort Briggs",
+        "Olivier Mira Armstrong",
+        "Amestrian State Military"
+      ],
+      "abilities": ["Automail User"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/4/41/Henschel.png",
+      "name": "Henschel",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "35",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 36: Family Portrait",
+      "affiliations": ["Fort Briggs", "Amestrian State Military"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/c/c7/Avatar_karley.png",
+      "name": "Karley",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "26",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 37: The First Homunculus",
+      "affiliations": ["Fort Briggs", "Amestrian State Military"],
+      "abilities": ["Radio Maintaining"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/9/97/Avatar_smith.png",
+      "name": "Smith",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "27",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 36: Family Portrait",
+      "affiliations": ["Fort Briggs", "Amestrian State Military"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/1/15/Liam.png",
+      "name": "Liam Roach",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "34",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 38: Conflict at Baschool",
+      "affiliations": ["Fort Briggs", "Amestrian State Military"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/0/03/Mike.png",
+      "name": "Mick Murray",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "37",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 38: Conflict at Baschool",
+      "affiliations": ["Fort Briggs", "Amestrian State Military"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/8/89/Avatar_neil.png",
+      "name": "Neil",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "28",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 34: Ice Queen",
+      "affiliations": ["Fort Briggs", "Amestrian State Military"],
+      "abilities": ["Automail Mechanic", "Engineering"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/b/bc/Avatar_briggsdoc.png",
+      "name": "Fort Briggs Doctor",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "45",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 34: Ice Queen",
+      "affiliations": ["Fort Briggs", "Amestrian State Military"],
+      "abilities": ["Automail Engineer", "Medicine", "Automail Specialist"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/c/c7/Bobby.png",
+      "name": "Bobby",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "25",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 34: Ice Queen",
+      "affiliations": ["Fort Briggs", "Amestrian State Military"],
+      "abilities": ["Engineering"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/9/9c/Doc-profile.png",
+      "name": "Gold-Toothed Doctor",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "70",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 26: Reunion",
+      "affiliations": ["Homunculus", "Father", "Amestrian State Military"],
+      "abilities": ["Medicine", "Alchemy"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/7/7c/Henry_douglas.png",
+      "name": "Henry Douglas",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "53",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 16: Footsteps of a Comrade-in-Arms",
+      "affiliations": ["Amestrian State Military"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/d/db/Avatar_knox.png",
+      "name": "Dr. Knox",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "50",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 17: Cold Flame",
+      "affiliations": [
+        "Lan Fan",
+        "May Chang",
+        "Roy Mustang",
+        "Amestrian State Military"
+      ],
+      "abilities": ["Medicine"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/0/08/Avatar_darius.png",
+      "name": "Darius",
+      "species": ["Human", "Chimera"],
+      "gender": "Male",
+      "age": "36",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 37: The First Homunculus",
+      "affiliations": [
+        "Solf J. Kimblee",
+        "Heinkel",
+        "Edward Elric",
+        "Greed",
+        "Amestrian State Military"
+      ],
+      "abilities": ["Animalistic Abilities", "Transformation", "Gorilla Form"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/f/f0/Avatar_heinkel.png",
+      "name": "Heinkel",
+      "species": ["Human", "Chimera"],
+      "gender": "Male",
+      "age": "34",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 37: The First Homunculus",
+      "affiliations": [
+        "Solf J. Kimblee",
+        "Darius",
+        "Edward Elric",
+        "Greed",
+        "Amestrian State Military"
+      ],
+      "abilities": ["Super Strength", "Transformation", "Lion Form"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/e/e1/Gerso.png",
+      "name": "Jerso",
+      "species": ["Human", "Chimera"],
+      "gender": "Male",
+      "age": "30",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 37: The First Homunculus",
+      "affiliations": [
+        "Solf J. Kimblee",
+        "Amestrian State Military",
+        "Zampano",
+        "Alphonse Elric"
+      ],
+      "abilities": ["Sticky Saliva", "Transformation", "Amphibious Form"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/d/de/Avatar_zampano.png",
+      "name": "Zampano",
+      "species": ["Human", "Chimera"],
+      "gender": "Male",
+      "age": "30",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 37: The First Homunculus",
+      "affiliations": [
+        "Solf J. Kimblee",
+        "Amestrian State Military",
+        "Jerso",
+        "Alphonse Elric"
+      ],
+      "abilities": [
+        "Projectile Quills",
+        "Transformation",
+        "Razorback Boar Form"
+      ]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/1/13/Avatar_sheska.png",
+      "name": "Sheska",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "21",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 7: Hidden Truths",
+      "affiliations": [
+        "Maes Hughes",
+        "Edward Elric",
+        "Alphonse Elric",
+        "Amestrian State Military"
+      ],
+      "abilities": ["Photographic Memory"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/c/cb/MariaRoss03.png",
+      "name": "Maria Ross",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "21",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 4: An Alchemist's Anguish",
+      "affiliations": [
+        "Denny Brosh",
+        "Alex Armstrong",
+        "Roy Mustang",
+        "Amestrian State Military"
+      ],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/5/56/Avatar_brosh.png",
+      "name": "Denny Brosh",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "20",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 4: An Alchemist's Anguish",
+      "affiliations": [
+        "Alex Armstrong",
+        "Maria Ross",
+        "Amestrian State Military"
+      ],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/2/2a/Yoki.png",
+      "name": "Yoki",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "40",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 13: Beasts of Dublith",
+      "affiliations": ["Scar", "May Chang", "Amestrian State Military"],
+      "abilities": ["Mining knowledge"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/4/46/Avatar_focker.png",
+      "name": "Focker",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "34",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 10: Separate Destinations",
+      "affiliations": ["Amestrian State Military"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/2/2f/Avatar_shan.png",
+      "name": "Shan",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "26",
+      "nationality": ["Ishvalan"],
+      "debut_episode": "Episode 18: The Arrogant Palm of a Small Human",
+      "affiliations": ["Ishval"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/3/37/Avatar_scarsmaster.png",
+      "name": "Scar's Master",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "60",
+      "nationality": ["Ishvalan"],
+      "debut_episode": "Episode 13: Beasts of Dublith",
+      "affiliations": ["Ishval", "Scar", "Scar's brother"],
+      "abilities": ["Wisdom"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/c/c7/Scar.png",
+      "name": "Scar",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "30",
+      "nationality": ["Ishvalan"],
+      "debut_episode": "Episode 4: An Alchemist's Anguish",
+      "affiliations": ["Ishval", "May Chang", "Yoki", "Dr. Marcoh"],
+      "abilities": [
+        "Alchemy",
+        "Destruction/Reconstruction Alchemy",
+        "Alkahestry"
+      ]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/7/7c/Avatar_scarsbro.png",
+      "name": "Scar's brother",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "30",
+      "nationality": ["Ishvalan"],
+      "debut_episode": "Episode 22: Backs in the Distance",
+      "affiliations": ["Ishval"],
+      "abilities": ["Alchemy", "Alkahestry"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/4/47/Avatar_fu.png",
+      "name": "Fu",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "70",
+      "nationality": ["Xingese"],
+      "debut_episode": "Episode 15: The Envoy From the East",
+      "affiliations": ["Ling Yao", "Yao Clan"],
+      "abilities": ["Xingese Martial arts", "Sensitive to Humunculi"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/9/95/Avatar_lanfan.png",
+      "name": "Lan Fan",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "15",
+      "nationality": ["Xingese"],
+      "debut_episode": "Episode 15: The Envoy From the East",
+      "affiliations": ["Ling Yao", "Yao Clan"],
+      "abilities": ["Xingese Martial arts", "Sensitive to Humunculi"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/b/b5/Ling-profile.png",
+      "name": "Ling Yao",
+      "species": ["Human", "Human-based Homunculus"],
+      "gender": "Male",
+      "age": "15",
+      "nationality": ["Xingese"],
+      "debut_episode": "Episode 15: The Envoy From the East",
+      "affiliations": ["Yao Clan", "Edward Elric", "Greed"],
+      "abilities": ["Xingese Martial arts", "Sensitive to Humunculi"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/b/b3/68082-meichang.jpg",
+      "name": "May Chang",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "10",
+      "nationality": ["Xingese"],
+      "debut_episode": "Episode 15: The Envoy From the East",
+      "affiliations": ["Scar", "Dr Marcoh", "Alphonse Elric", "Chang Clan"],
+      "abilities": [
+        "Alkahestry",
+        "Xingese Martial arts",
+        "Sensitive to Humunculi"
+      ]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/c/cd/Avatar_xiao-mei.png",
+      "name": "Shao May",
+      "species": ["Panda"],
+      "gender": "Female",
+      "age": "1",
+      "nationality": ["Xingese"],
+      "debut_episode": "Episode 15: The Envoy From the East",
+      "affiliations": ["May Chang", "Chang Clan", "Alphonse Elric"],
+      "abilities": ["Xingese Martial arts"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/3/3e/Avatar_emperor.png",
+      "name": "Emperor of Xing",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "65",
+      "nationality": ["Xingese"],
+      "debut_episode": "Episode 15: The Envoy From the East",
+      "affiliations": ["Xing Empire"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/b/bb/Avatar_king-xerxes.png",
+      "name": "King of Xerxes",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "46",
+      "nationality": ["Xerxesian"],
+      "debut_episode": "Episode 40: The Dwarf in the Flask",
+      "affiliations": ["Xerxes"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/c/ce/Bido.png",
+      "name": "Bido",
+      "species": ["Human", "Chimera"],
+      "gender": "Male",
+      "age": "34",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 13: Beasts of Dublith",
+      "affiliations": ["Greed", "Devil's Nest"],
+      "abilities": ["Nimble", "Reptilian-like"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/2/28/Dolcetto.png",
+      "name": "Dolcetto",
+      "species": ["Human", "Chimera"],
+      "gender": "Male",
+      "age": "30",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 13: Beasts of Dublith",
+      "affiliations": ["Greed", "Devil's Nest"],
+      "abilities": ["Canine-like Speed"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/2/23/Marta.jpg",
+      "name": "Martel",
+      "species": ["Human", "Chimera"],
+      "gender": "Female",
+      "age": "26",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 13: Beasts of Dublith",
+      "affiliations": ["Greed", "Devil's Nest"],
+      "abilities": ["Superhuman Dlexibility"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/7/75/Roa.png",
+      "name": "Roa",
+      "species": ["Human", "Chimera"],
+      "gender": "Male",
+      "age": "35",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 13: Beasts of Dublith",
+      "affiliations": ["Greed", "Amestrian State Military", "Devil's Nest"],
+      "abilities": ["Enhanced strength", "Transformation", "Bull Form"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/b/ba/Avatar_ulchi.png",
+      "name": "Ulchi",
+      "species": ["Human", "Chimera"],
+      "gender": "Male",
+      "age": "32",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 13: Beasts of Dublith",
+      "affiliations": ["Greed", "Devil's Nest"],
+      "abilities": ["Transformation", "Crocodile Form"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/c/c9/Lust_FMAB_BRay.png",
+      "name": "Lust",
+      "species": ["Homunculus"],
+      "gender": "Female",
+      "age": "250",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 1: Fullmetal Alchemist",
+      "affiliations": ["Homunculus", "Father"],
+      "abilities": ["Ultimate Spear", "Philosopher's Stone", "Immortality"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/e/ef/7s_greed.png",
+      "name": "Greed",
+      "species": ["Homunculus", "Human-based Homunculus"],
+      "gender": "Male",
+      "age": "200",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 13: Beasts of Dublith",
+      "affiliations": ["Devil's Nest", "Edward Elric", "Ling Yao"],
+      "abilities": ["Ultimate Shield", "Philosopher's Stone", "Immortality"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/a/a4/7s_sloth.png",
+      "name": "Sloth",
+      "species": ["Homunculus"],
+      "gender": "Male",
+      "age": "160",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 14: Those Who Lurk Underground",
+      "affiliations": ["Homunculus", "Father"],
+      "abilities": [
+        "Extremely Strong",
+        "Extreme Super Durability",
+        "Extreme Super Speed",
+        "Philosopher's Stone",
+        "Immortality"
+      ]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/d/d1/7s_envy.png",
+      "name": "Envy",
+      "species": ["Homunculus"],
+      "gender": "Male",
+      "age": "175",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 5: Rain of Sorrows",
+      "affiliations": ["Homunculus", "Father"],
+      "abilities": ["Shapeshifting", "Philosopher's Stone", "Immortality"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/2/28/Avatar_gluttony.png",
+      "name": "Gluttony",
+      "species": ["Homunculus"],
+      "gender": "Male",
+      "age": "160",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 1: Fullmetal Alchemist",
+      "affiliations": ["Homunculus", "Father"],
+      "abilities": [
+        "Insatiable appetite",
+        "keen sense of smell",
+        "Philosopher's Stone",
+        "Immortality"
+      ]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/8/82/Fullmetal_Alchemist_-_44_-_Large_29.jpg",
+      "name": "The Dwarf in the Flask (Father)",
+      "species": ["Homunculus", "Living Philosopher's Stone"],
+      "gender": "Male",
+      "age": "431",
+      "nationality": ["Xerxesian"],
+      "debut_episode": "Episode 1: Fullmetal Alchemist",
+      "affiliations": ["Homunculus", "Amestrian State Military"],
+      "abilities": [
+        "Alchemy",
+        "Philosopher's Stone",
+        "Immortality",
+        "Alchemy Without Circle"
+      ]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/4/48/Avatar_barry.png",
+      "name": "Barry the Chopper",
+      "species": ["Human soul bound to armour"],
+      "gender": "Male",
+      "age": "30",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 8: The Fifth Laboratory",
+      "affiliations": [
+        "Homunculus",
+        "Amestrian State Military",
+        "Roy Mustang",
+        "Ling Yao"
+      ],
+      "abilities": ["No fatigue", "No pain threshold"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/3/38/Avatar_cornello.png",
+      "name": "Father Cornello",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "56",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 3: City of Heresy",
+      "affiliations": ["Homunculus"],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/5/51/Avatar_madam.png",
+      "name": "Madame Christmas",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "54",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 31: The 520 Cens Promise",
+      "affiliations": ["Roy Mustang", "General Grumman"],
+      "abilities": ["Information Gathering"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/1/10/Avatar_garfiel.png",
+      "name": "Garfiel",
+      "species": ["Human"],
+      "gender": "Male",
+      "age": "35",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 15: The Envoy From the East",
+      "affiliations": ["Winry Rockbell", "Dominic LeCoulte", "Atelier Garfiel"],
+      "abilities": ["High Intelligence in Automail"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/6/64/Paninya_blade.jpg",
+      "name": "Paninya",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "17",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 11: Miracle at Rush Valley",
+      "affiliations": ["Dominic LeCoulte", "Winry Rockbell"],
+      "abilities": ["Automail User", "Acrobatics"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/4/4f/Rose.png",
+      "name": "Rosé Thomas",
+      "species": ["Human"],
+      "gender": "Female",
+      "age": "17",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 3: City of Heresy",
+      "affiliations": [
+        "Church of Leto",
+        "Cornello",
+        "Edward Elric",
+        "Alphonse Elric"
+      ],
+      "abilities": ["Unknown"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/e/ee/Slicer.png",
+      "name": "The Slicer Brothers",
+      "species": ["Human soul bound to armour"],
+      "gender": "Male",
+      "age": "26",
+      "nationality": ["Amestrian"],
+      "debut_episode": "Episode 8: The Fifth Laboratory",
+      "affiliations": ["Homunculus", "Laboratory 5"],
+      "abilities": ["No fatigue", "No pain threshold"]
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/fma/images/e/e8/Truth.png",
+      "name": "Truth",
+      "species": ["Cosmic Entity"],
+      "gender": "Genderless",
+      "age": "Ageless",
+      "nationality": ["None"],
+      "debut_episode": "Episode 2: The First Day",
+      "affiliations": ["Universe, Earth"],
+      "abilities": [
+        "Near-Omnipotence",
+        "Nigh-Omniscience",
+        "Nigh-Omnipresence",
+        "Immortality"
+      ]
+    }
+  ]
+}

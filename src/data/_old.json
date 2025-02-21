@@ -8,7 +8,7 @@
       "age": "451",
       "nationality": ["Xerxesian"],
       "debut_episode": "Episode 12: One Is All, All Is One",
-      "affiliations": ["Xerxesian", "Edward Elric", "Alphonse Elric"],
+      "affiliations": ["Xerxes", "Edward Elric", "Alphonse Elric"],
       "abilities": [
         "Alchemy",
         "Philosopher's Stone",
@@ -33,7 +33,7 @@
       "species": ["Human"],
       "gender": "Male",
       "age": "15",
-      "nationality": ["Amestrian", "Xerxesian"],
+      "nationality": ["Amzestrian", "Xerxesian"],
       "debut_episode": "Episode 1: Fullmetal Alchemist",
       "affiliations": [
         "Rockbell Automail",
@@ -371,22 +371,18 @@
       "age": "5",
       "nationality": ["Amestrian"],
       "debut_episode": "Episode 4: An Alchemist's Anguish",
-      "affiliations": ["Edward Elric", "Alphonse Elric"],
+      "affiliations": ["Edward Elric", "Alphonse Elric", "Alexander"],
       "abilities": ["Unknown"]
     },
     {
       "image": "https://static.wikia.nocookie.net/fma/images/d/d9/Alexander.png/revision/latest/scale-to-width-down/350?cb=20140909125420",
       "name": "Alexander",
-      "species": ["Human", "Chimera"],
+      "species": ["Dog", "Chimera"],
       "gender": "Male",
       "age": "5",
       "nationality": ["None"],
       "debut_episode": "Episode 4: An Alchemist's Anguish",
-      "affiliations": [
-        "Edward Elric",
-        "Nina Tucker",
-        "Edward ElricNina Tucker"
-      ],
+      "affiliations": ["Edward Elric", "Nina Tucker", "Alphonse Elric"],
       "abilities": ["Unknown"]
     },
     {
@@ -971,7 +967,7 @@
       "age": "1",
       "nationality": ["Xingese"],
       "debut_episode": "Episode 15: The Envoy From the East",
-      "affiliations": ["May Chang", "Chang Clan"],
+      "affiliations": ["May Chang", "Chang Clan", "Alphonse Elric"],
       "abilities": ["Xingese Martial arts"]
     },
     {

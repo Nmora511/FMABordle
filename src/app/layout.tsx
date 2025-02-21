@@ -15,6 +15,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "FMABordle",
   description: "Daily guess FMAB characters with clues for each try",
+  icons: {
+    icon: "/assets/flamel.ico", // Generic icon
+    apple: "/assets/flamel.ico", // Apple Touch Icon
+    shortcut: "/assets/flamel.ico", // Fallback for some browsers
+  },
 };
 
 export default function RootLayout({
